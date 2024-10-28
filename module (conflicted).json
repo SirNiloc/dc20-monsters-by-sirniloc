@@ -1,0 +1,9 @@
+{
+  "id": "dc20-monsters-by-sirniloc",
+  "title": "DC20 Monsters by SirNiloc",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  }
+}

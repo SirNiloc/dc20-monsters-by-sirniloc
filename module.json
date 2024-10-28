@@ -1,0 +1,63 @@
+{
+  "id": "dc20-monsters-by-sirniloc",
+  "title": "DC20 Monsters by SirNiloc",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "relationships": {
+    "requires": [
+      {
+        "id": "dc20-spells-by-sirniloc",
+        "type": "module",
+        "compatibility": {}
+      }
+    ],
+    "systems": [
+      {
+        "id": "dc20rpg",
+        "type": "system",
+        "compatibility": {}
+      }
+    ],
+    "recommends": [
+      {
+        "id": "dc20-spells-by-sirniloc",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "dc20-items-by-sirniloc",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "dc20-manuevers-and-techniques-by-sirniloc",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "SirNiloc",
+      "email": "sirniloc@ravn-quest.com",
+      "discord": "sirniloc",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "sirnilocs-monsters",
+      "label": "SirNiloc's Monsters",
+      "path": "packs/sirnilocs-monsters",
+      "type": "Actor",
+      "system": "dc20rpg",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ]
+}
