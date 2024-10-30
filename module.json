@@ -14,7 +14,7 @@
         "compatibility": {}
       },
       {
-        "id": "devin-nights-free-tokens-fantasy",
+        "id": "dc20-monsters-by-sirniloc",
         "type": "module",
         "compatibility": {}
       }
@@ -66,5 +66,7 @@
       }
     }
   ],
-  "url": "https://github.com/SirNiloc/dc20-monsters-by-sirniloc"
-}
+  "url": "https://github.com/SirNiloc/dc20-monsters-by-sirniloc",
+  "manifest": "https://github.com/SirNiloc/dc20-monsters-by-sirniloc/releases/download/latest/module.json",
+  "download": "https://github.com/SirNiloc/dc20-monsters-by-sirniloc/releases/download/latest/dc20-monsters-by-sirniloc.zip"
+  }
