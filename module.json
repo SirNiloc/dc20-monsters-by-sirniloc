@@ -28,17 +28,7 @@
     ],
     "recommends": [
       {
-        "id": "dc20-spells-by-sirniloc",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "dc20-items-by-sirniloc",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "dc20-manuevers-and-techniques-by-sirniloc",
+        "id": "about-face",
         "type": "module",
         "compatibility": {}
       }
@@ -69,11 +59,11 @@
       "label": "SirNiloc's Monsters",
       "path": "packs/sirnilocs-monsters",
       "type": "Actor",
+      "system": "dc20rpg",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "dc20rpg"
+      }
     }
   ],
   "url": "https://github.com/SirNiloc/dc20-monsters-by-sirniloc"
