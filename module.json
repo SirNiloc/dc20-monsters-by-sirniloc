@@ -9,7 +9,12 @@
   "relationships": {
     "requires": [
       {
-        "id": "dc20-spells-by-sirniloc",
+        "id": "devin-nights-free-tokens-ks",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "devin-nights-free-tokens-fantasy",
         "type": "module",
         "compatibility": {}
       }
@@ -49,15 +54,27 @@
   ],
   "packs": [
     {
-      "name": "sirnilocs-monsters",
-      "label": "SirNiloc's Monsters",
-      "path": "packs/sirnilocs-monsters",
-      "type": "Actor",
+      "name": "sirnilocs-monster-abilities",
+      "label": "SirNiloc's Monster Abilities",
+      "path": "packs/sirnilocs-monster-abilities",
+      "type": "Item",
       "system": "dc20rpg",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
+    },
+    {
+      "name": "sirnilocs-monsters",
+      "label": "SirNiloc's Monsters",
+      "path": "packs/sirnilocs-monsters",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dc20rpg"
     }
-  ]
+  ],
+  "url": "https://github.com/SirNiloc/dc20-monsters-by-sirniloc"
 }
