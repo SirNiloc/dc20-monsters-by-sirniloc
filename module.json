@@ -9,7 +9,7 @@
   "relationships": {
     "requires": [
       {
-        "id": "devin-nights-free-tokens-ks",
+        "id": "devin-nights-free-tokens-fantasy",
         "type": "module",
         "compatibility": {}
       },
