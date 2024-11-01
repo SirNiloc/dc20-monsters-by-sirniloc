@@ -62,6 +62,6 @@
     }
   ],
   "url": "https://github.com/SirNiloc/dc20-monsters-by-sirniloc",
-  "manifest": "https://github.com/SirNiloc/dc20-monsters-by-sirniloc/releases/download/latest/module.json",
-  "download": "https://github.com/SirNiloc/dc20-monsters-by-sirniloc/releases/download/latest/dc20-monsters-by-sirniloc.zip"
+  "manifest": "https://github.com/SirNiloc/dc20-monsters-by-sirniloc/releases/download/v0.0.2/module.json",
+  "download": "https://github.com/SirNiloc/dc20-monsters-by-sirniloc/releases/download/v0.0.2/dc20-monsters-by-sirniloc.zip"
   }
