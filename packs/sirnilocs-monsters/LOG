@@ -1,14 +1,14 @@
-2024/11/18-18:45:17.187 9c4 Recovering log #95
-2024/11/18-18:45:17.193 9c4 Delete type=0 #95
-2024/11/18-18:45:17.193 9c4 Delete type=3 #93
-2024/11/18-19:11:33.082 4108 Level-0 table #100: started
-2024/11/18-19:11:33.109 4108 Level-0 table #100: 1299843 bytes OK
-2024/11/18-19:11:33.112 4108 Delete type=0 #98
-2024/11/18-19:11:33.118 4108 Manual compaction at level-0 from '!actors!02hFSPDNhqONUAh9' @ 72057594037927935 : 1 .. '!folders!xOjHFNHFrzwt853H' @ 0 : 0; will stop at '!folders!sEDzrifdOPO3Rp51' @ 2290 : 1
-2024/11/18-19:11:33.118 4108 Compacting 1@0 + 1@1 files
-2024/11/18-19:11:33.136 4108 Generated table #101@0: 242 keys, 602910 bytes
-2024/11/18-19:11:33.136 4108 Compacted 1@0 + 1@1 files => 602910 bytes
-2024/11/18-19:11:33.138 4108 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/11/18-19:11:33.139 4108 Delete type=2 #90
-2024/11/18-19:11:33.139 4108 Delete type=2 #100
-2024/11/18-19:11:33.141 4108 Manual compaction at level-0 from '!folders!sEDzrifdOPO3Rp51' @ 2290 : 1 .. '!folders!xOjHFNHFrzwt853H' @ 0 : 0; will stop at (end)
+2024/12/20-22:07:39.278 1378 Recovering log #113
+2024/12/20-22:07:39.282 1378 Delete type=0 #113
+2024/12/20-22:07:39.282 1378 Delete type=3 #109
+2024/12/20-22:51:04.390 4b94 Level-0 table #119: started
+2024/12/20-22:51:04.397 4b94 Level-0 table #119: 280221 bytes OK
+2024/12/20-22:51:04.399 4b94 Delete type=0 #117
+2024/12/20-22:51:04.401 4b94 Manual compaction at level-0 from '!actors!02hFSPDNhqONUAh9' @ 72057594037927935 : 1 .. '!folders!xOjHFNHFrzwt853H' @ 0 : 0; will stop at '!actors.items!wN5S7uAsDbJhEut3.eUJC606vZuPo02I8' @ 3134 : 1
+2024/12/20-22:51:04.401 4b94 Compacting 1@0 + 1@1 files
+2024/12/20-22:51:04.414 4b94 Generated table #120@0: 262 keys, 628982 bytes
+2024/12/20-22:51:04.414 4b94 Compacted 1@0 + 1@1 files => 628982 bytes
+2024/12/20-22:51:04.416 4b94 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/12/20-22:51:04.416 4b94 Delete type=2 #115
+2024/12/20-22:51:04.417 4b94 Delete type=2 #119
+2024/12/20-22:51:04.421 4b94 Manual compaction at level-0 from '!actors.items!wN5S7uAsDbJhEut3.eUJC606vZuPo02I8' @ 3134 : 1 .. '!folders!xOjHFNHFrzwt853H' @ 0 : 0; will stop at (end)
