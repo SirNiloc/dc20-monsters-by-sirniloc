@@ -1,7 +1,7 @@
 {
   "id": "dc20-monsters-by-sirniloc",
   "title": "Monsters by SirNiloc (DC20)",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
@@ -62,6 +62,6 @@
     }
   ],
   "url": "https://github.com/SirNiloc/dc20-monsters-by-sirniloc",
-  "manifest": "https://github.com/SirNiloc/dc20-monsters-by-sirniloc/releases/download/v0.0.3/module.json",
-  "download": "https://github.com/SirNiloc/dc20-monsters-by-sirniloc/releases/download/v0.0.3/dc20-monsters-by-sirniloc.zip"
+  "manifest": "https://github.com/SirNiloc/dc20-monsters-by-sirniloc/releases/download/v0.1.0/module.json",
+  "download": "https://github.com/SirNiloc/dc20-monsters-by-sirniloc/releases/download/v0.1.0/dc20-monsters-by-sirniloc.zip"
 }
