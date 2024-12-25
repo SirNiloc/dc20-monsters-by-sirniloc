@@ -1,14 +1,14 @@
-2024/12/24-15:06:54.410 4700 Recovering log #182
-2024/12/24-15:06:54.415 4700 Delete type=0 #182
-2024/12/24-15:06:54.416 4700 Delete type=3 #180
-2024/12/24-17:39:23.852 4d7c Level-0 table #188: started
-2024/12/24-17:39:23.865 4d7c Level-0 table #188: 153419 bytes OK
-2024/12/24-17:39:23.867 4d7c Delete type=0 #186
-2024/12/24-17:39:23.882 4d7c Manual compaction at level-0 from '!folders!4rbwGmTLjBzDjMLM' @ 72057594037927935 : 1 .. '!items.effects!wPlyBuxDKJT8FwJA.sCch8O1sZgr2oulP' @ 0 : 0; will stop at '!items.effects!wPlyBuxDKJT8FwJA.sCch8O1sZgr2oulP' @ 713 : 1
-2024/12/24-17:39:23.882 4d7c Compacting 1@0 + 1@1 files
-2024/12/24-17:39:23.888 4d7c Generated table #189@0: 75 keys, 69663 bytes
-2024/12/24-17:39:23.888 4d7c Compacted 1@0 + 1@1 files => 69663 bytes
-2024/12/24-17:39:23.895 4d7c compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/12/24-17:39:23.895 4d7c Delete type=2 #184
-2024/12/24-17:39:23.896 4d7c Delete type=2 #188
-2024/12/24-17:39:23.898 4d7c Manual compaction at level-0 from '!items.effects!wPlyBuxDKJT8FwJA.sCch8O1sZgr2oulP' @ 713 : 1 .. '!items.effects!wPlyBuxDKJT8FwJA.sCch8O1sZgr2oulP' @ 0 : 0; will stop at (end)
+2024/12/24-17:42:21.695 1c74 Recovering log #189
+2024/12/24-17:42:21.700 1c74 Delete type=0 #189
+2024/12/24-17:42:21.701 1c74 Delete type=3 #185
+2024/12/24-18:03:30.430 4d7c Level-0 table #193: started
+2024/12/24-18:03:30.435 4d7c Level-0 table #193: 46646 bytes OK
+2024/12/24-18:03:30.437 4d7c Delete type=0 #191
+2024/12/24-18:03:30.438 4d7c Manual compaction at level-0 from '!folders!4rbwGmTLjBzDjMLM' @ 72057594037927935 : 1 .. '!items.effects!wPlyBuxDKJT8FwJA.sCch8O1sZgr2oulP' @ 0 : 0; will stop at '!items.effects!wPlyBuxDKJT8FwJA.sCch8O1sZgr2oulP' @ 763 : 1
+2024/12/24-18:03:30.438 4d7c Compacting 1@0 + 1@1 files
+2024/12/24-18:03:30.449 4d7c Generated table #194@0: 75 keys, 71703 bytes
+2024/12/24-18:03:30.449 4d7c Compacted 1@0 + 1@1 files => 71703 bytes
+2024/12/24-18:03:30.453 4d7c compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/12/24-18:03:30.453 4d7c Delete type=2 #189
+2024/12/24-18:03:30.454 4d7c Delete type=2 #193
+2024/12/24-18:03:30.459 4d7c Manual compaction at level-0 from '!items.effects!wPlyBuxDKJT8FwJA.sCch8O1sZgr2oulP' @ 763 : 1 .. '!items.effects!wPlyBuxDKJT8FwJA.sCch8O1sZgr2oulP' @ 0 : 0; will stop at (end)
