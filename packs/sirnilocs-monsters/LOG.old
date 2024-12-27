@@ -1,22 +1,7 @@
-2024/12/24-15:06:54.437 1308 Recovering log #176
-2024/12/24-15:06:54.443 1308 Delete type=0 #176
-2024/12/24-15:06:54.444 1308 Delete type=3 #174
-2024/12/24-17:39:23.898 4d7c Level-0 table #181: started
-2024/12/24-17:39:23.909 4d7c Level-0 table #181: 343582 bytes OK
-2024/12/24-17:39:23.911 4d7c Delete type=0 #179
-2024/12/24-17:39:23.929 4d7c Manual compaction at level-0 from '!actors!02hFSPDNhqONUAh9' @ 72057594037927935 : 1 .. '!folders!xOjHFNHFrzwt853H' @ 0 : 0; will stop at '!folders!xOjHFNHFrzwt853H' @ 7913 : 1
-2024/12/24-17:39:23.930 4d7c Compacting 1@0 + 5@1 files
-2024/12/24-17:39:23.993 4d7c Generated table #182@0: 731 keys, 2120700 bytes
-2024/12/24-17:39:24.048 4d7c Generated table #183@0: 801 keys, 2126225 bytes
-2024/12/24-17:39:24.139 4d7c Generated table #184@0: 806 keys, 2122475 bytes
-2024/12/24-17:39:24.245 4d7c Generated table #185@0: 809 keys, 2123082 bytes
-2024/12/24-17:39:24.281 4d7c Generated table #186@0: 1253 keys, 1106513 bytes
-2024/12/24-17:39:24.281 4d7c Compacted 1@0 + 5@1 files => 9598995 bytes
-2024/12/24-17:39:24.284 4d7c compacted to: files[ 0 5 0 0 0 0 0 ]
-2024/12/24-17:39:24.284 4d7c Delete type=2 #165
-2024/12/24-17:39:24.292 4d7c Delete type=2 #166
-2024/12/24-17:39:24.295 4d7c Delete type=2 #167
-2024/12/24-17:39:24.297 4d7c Delete type=2 #168
-2024/12/24-17:39:24.298 4d7c Delete type=2 #169
-2024/12/24-17:39:24.299 4d7c Delete type=2 #181
-2024/12/24-17:39:24.301 4d7c Manual compaction at level-0 from '!folders!xOjHFNHFrzwt853H' @ 7913 : 1 .. '!folders!xOjHFNHFrzwt853H' @ 0 : 0; will stop at (end)
+2024/12/26-22:27:10.940 20fc Recovering log #247
+2024/12/26-22:27:10.945 20fc Delete type=0 #247
+2024/12/26-22:27:10.946 20fc Delete type=3 #245
+2024/12/26-22:29:49.777 3f64 Level-0 table #252: started
+2024/12/26-22:29:49.777 3f64 Level-0 table #252: 0 bytes OK
+2024/12/26-22:29:49.778 3f64 Delete type=0 #250
+2024/12/26-22:29:49.789 3f64 Manual compaction at level-0 from '!actors!02hFSPDNhqONUAh9' @ 72057594037927935 : 1 .. '!folders!xOjHFNHFrzwt853H' @ 0 : 0; will stop at (end)
