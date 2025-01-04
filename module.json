@@ -1,7 +1,7 @@
 {
   "id": "dc20-monsters-by-sirniloc",
   "title": "Monsters by SirNiloc (DC20)",
-  "version": "0.1.3",
+  "version": "0.1.4-dev",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
@@ -24,6 +24,11 @@
     "recommends": [
       {
         "id": "about-face",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "sirnilocs-loot-tables",
         "type": "module",
         "compatibility": {}
       }
@@ -60,6 +65,17 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
+    },
+    {
+      "name": "monster-loot-sirniloc",
+      "label": "Monster Loot (SirNiloc)",
+      "path": "packs/monster-loot-sirniloc",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dc20rpg"
     }
   ],
   "url": "https://github.com/SirNiloc/dc20-monsters-by-sirniloc",
