@@ -1,16 +1,14 @@
-2025/01/31-11:14:03.768 1bb4 Recovering log #353
-2025/01/31-11:14:03.776 1bb4 Delete type=0 #353
-2025/01/31-11:14:03.776 1bb4 Delete type=3 #351
-2025/01/31-11:16:18.823 4218 Level-0 table #358: started
-2025/01/31-11:16:18.828 4218 Level-0 table #358: 79718 bytes OK
-2025/01/31-11:16:18.835 4218 Delete type=0 #356
-2025/01/31-11:16:18.850 4218 Expanding@0 1+1 (79718+75839 bytes) to 2+1 (80751+75839 bytes)
-2025/01/31-11:16:18.850 4218 Manual compaction at level-0 from '!folders!4rbwGmTLjBzDjMLM' @ 72057594037927935 : 1 .. '!items!zXr9KhuWSocLjBSJ' @ 0 : 0; will stop at '!items.effects!wPlyBuxDKJT8FwJA.sCch8O1sZgr2oulP' @ 1029 : 0
-2025/01/31-11:16:18.850 4218 Compacting 2@0 + 1@1 files
-2025/01/31-11:16:18.854 4218 Generated table #359@0: 52 keys, 77976 bytes
-2025/01/31-11:16:18.855 4218 Compacted 2@0 + 1@1 files => 77976 bytes
-2025/01/31-11:16:18.858 4218 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/01/31-11:16:18.858 4218 Delete type=2 #273
-2025/01/31-11:16:18.858 4218 Delete type=2 #341
-2025/01/31-11:16:18.858 4218 Delete type=2 #358
-2025/01/31-11:16:19.610 4218 Manual compaction at level-0 from '!items.effects!wPlyBuxDKJT8FwJA.sCch8O1sZgr2oulP' @ 1029 : 0 .. '!items!zXr9KhuWSocLjBSJ' @ 0 : 0; will stop at (end)
+2025/01/31-17:16:42.494 2d84 Recovering log #357
+2025/01/31-17:16:42.498 2d84 Delete type=0 #357
+2025/01/31-17:16:42.499 2d84 Delete type=3 #355
+2025/01/31-18:04:16.055 1af4 Level-0 table #363: started
+2025/01/31-18:04:16.072 1af4 Level-0 table #363: 176659 bytes OK
+2025/01/31-18:04:16.074 1af4 Delete type=0 #361
+2025/01/31-18:04:16.082 1af4 Manual compaction at level-0 from '!folders!4rbwGmTLjBzDjMLM' @ 72057594037927935 : 1 .. '!items.effects!yCvbVbpA3tsqhm4I.50PsjOsQr55a7eNt' @ 0 : 0; will stop at '!items.effects!yCvbVbpA3tsqhm4I.50PsjOsQr55a7eNt' @ 1336 : 1
+2025/01/31-18:04:16.082 1af4 Compacting 1@0 + 1@1 files
+2025/01/31-18:04:16.089 1af4 Generated table #364@0: 59 keys, 83064 bytes
+2025/01/31-18:04:16.089 1af4 Compacted 1@0 + 1@1 files => 83064 bytes
+2025/01/31-18:04:16.093 1af4 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/01/31-18:04:16.093 1af4 Delete type=2 #359
+2025/01/31-18:04:16.093 1af4 Delete type=2 #363
+2025/01/31-18:04:16.093 1af4 Manual compaction at level-0 from '!items.effects!yCvbVbpA3tsqhm4I.50PsjOsQr55a7eNt' @ 1336 : 1 .. '!items.effects!yCvbVbpA3tsqhm4I.50PsjOsQr55a7eNt' @ 0 : 0; will stop at (end)
