@@ -26,11 +26,6 @@
         "id": "about-face",
         "type": "module",
         "compatibility": {}
-      },
-      {
-        "id": "sirnilocs-loot-tables",
-        "type": "module",
-        "compatibility": {}
       }
     ]
   },
@@ -60,6 +55,17 @@
       "label": "SirNiloc's Monsters",
       "path": "packs/sirnilocs-monsters",
       "type": "Actor",
+      "system": "dc20rpg",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+	{
+      "name": "monster-loot-sirniloc",
+      "label": "Monster Loot (SirNiloc)",
+      "path": "packs/monster-loot-sirniloc",
+      "type": "Item",
       "system": "dc20rpg",
       "ownership": {
         "PLAYER": "OBSERVER",
