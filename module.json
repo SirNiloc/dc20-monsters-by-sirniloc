@@ -1,6 +1,6 @@
 {
   "id": "dc20-monsters-by-sirniloc",
-  "title": "Monsters by SirNiloc (DC20)",
+  "title": "RAVN Quest: Monsters",
   "version": "0.1.7",
   "compatibility": {
     "minimum": "12",
@@ -41,7 +41,7 @@
   "packs": [
     {
       "name": "sirnilocs-monster-abilities",
-      "label": "SirNiloc's Monster Abilities",
+      "label": "RAVN Quest: Monsters (Abilities)",
       "path": "packs/sirnilocs-monster-abilities",
       "type": "Item",
       "system": "dc20rpg",
@@ -52,7 +52,7 @@
     },
     {
       "name": "sirnilocs-monsters",
-      "label": "SirNiloc's Monsters",
+      "label": "RAVN Quest: Monsters",
       "path": "packs/sirnilocs-monsters",
       "type": "Actor",
       "system": "dc20rpg",
@@ -63,7 +63,7 @@
     },
     {
       "name": "monster-loot-sirniloc",
-      "label": "Monster Loot (SirNiloc)",
+      "label": "RAVN Quest: Monsters (Loot)",
       "path": "packs/monster-loot-sirniloc",
       "type": "Item",
       "system": "dc20rpg",
