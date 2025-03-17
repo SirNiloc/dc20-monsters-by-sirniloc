@@ -1,8 +1,15 @@
-2025/03/02-22:11:42.545 4230 Recovering log #506
-2025/03/02-22:11:42.550 4230 Delete type=0 #506
-2025/03/02-22:11:42.550 4230 Delete type=3 #504
-2025/03/02-22:14:55.208 25bc Level-0 table #511: started
-2025/03/02-22:14:55.208 25bc Level-0 table #511: 0 bytes OK
-2025/03/02-22:14:55.213 25bc Delete type=0 #509
-2025/03/02-22:14:55.219 25bc Manual compaction at level-0 from '!actors!04FxRmCBKqU6ojOd' @ 72057594037927935 : 1 .. '!folders!xOjHFNHFrzwt853H' @ 0 : 0; will stop at (end)
-2025/03/02-22:14:55.219 25bc Manual compaction at level-1 from '!actors!04FxRmCBKqU6ojOd' @ 72057594037927935 : 1 .. '!folders!xOjHFNHFrzwt853H' @ 0 : 0; will stop at (end)
+2025/03/17-12:51:46.119 2ab4 Recovering log #600
+2025/03/17-12:51:46.125 2ab4 Delete type=0 #600
+2025/03/17-12:51:46.125 2ab4 Delete type=3 #598
+2025/03/17-12:58:44.451 4dac Level-0 table #605: started
+2025/03/17-12:58:44.456 4dac Level-0 table #605: 30553 bytes OK
+2025/03/17-12:58:44.458 4dac Delete type=0 #603
+2025/03/17-12:58:44.463 4dac Manual compaction at level-0 from '!actors!04FxRmCBKqU6ojOd' @ 72057594037927935 : 1 .. '!folders!xOjHFNHFrzwt853H' @ 0 : 0; will stop at (end)
+2025/03/17-12:58:44.463 4dac Manual compaction at level-1 from '!actors!04FxRmCBKqU6ojOd' @ 72057594037927935 : 1 .. '!folders!xOjHFNHFrzwt853H' @ 0 : 0; will stop at '!actors.items!CDmNSkbZGH1ZY2N0.a2CUojU4Wsd5FzkL' @ 17789 : 1
+2025/03/17-12:58:44.463 4dac Compacting 1@1 + 1@2 files
+2025/03/17-12:58:44.540 4dac Generated table #606@1: 666 keys, 2121569 bytes
+2025/03/17-12:58:44.540 4dac Compacted 1@1 + 1@2 files => 2121569 bytes
+2025/03/17-12:58:44.541 4dac compacted to: files[ 0 0 5 0 0 0 0 ]
+2025/03/17-12:58:44.541 4dac Delete type=2 #467
+2025/03/17-12:58:44.541 4dac Delete type=2 #605
+2025/03/17-12:58:44.547 4dac Manual compaction at level-1 from '!actors.items!CDmNSkbZGH1ZY2N0.a2CUojU4Wsd5FzkL' @ 17789 : 1 .. '!folders!xOjHFNHFrzwt853H' @ 0 : 0; will stop at (end)
