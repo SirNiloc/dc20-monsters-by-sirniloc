@@ -1,8 +1,6 @@
-2025/03/17-12:48:40.246 ca4 Recovering log #596
-2025/03/17-12:48:40.251 ca4 Delete type=0 #596
-2025/03/17-12:48:40.252 ca4 Delete type=3 #594
-2025/03/17-12:50:48.345 4dac Level-0 table #601: started
-2025/03/17-12:50:48.345 4dac Level-0 table #601: 0 bytes OK
-2025/03/17-12:50:48.351 4dac Delete type=0 #599
-2025/03/17-12:50:48.351 4dac Manual compaction at level-0 from '!actors!04FxRmCBKqU6ojOd' @ 72057594037927935 : 1 .. '!folders!xOjHFNHFrzwt853H' @ 0 : 0; will stop at (end)
-2025/03/17-12:50:48.351 4dac Manual compaction at level-1 from '!actors!04FxRmCBKqU6ojOd' @ 72057594037927935 : 1 .. '!folders!xOjHFNHFrzwt853H' @ 0 : 0; will stop at (end)
+2025/03/18-18:17:42.790 298c Delete type=3 #602
+2025/03/18-18:23:47.924 3fa8 Level-0 table #610: started
+2025/03/18-18:23:47.925 3fa8 Level-0 table #610: 0 bytes OK
+2025/03/18-18:23:47.930 3fa8 Delete type=0 #608
+2025/03/18-18:23:47.931 3fa8 Manual compaction at level-0 from '!actors!04FxRmCBKqU6ojOd' @ 72057594037927935 : 1 .. '!folders!xOjHFNHFrzwt853H' @ 0 : 0; will stop at (end)
+2025/03/18-18:23:47.931 3fa8 Manual compaction at level-1 from '!actors!04FxRmCBKqU6ojOd' @ 72057594037927935 : 1 .. '!folders!xOjHFNHFrzwt853H' @ 0 : 0; will stop at (end)

@@ -1,14 +1,7 @@
-2025/03/17-12:51:46.099 ca4 Recovering log #550
-2025/03/17-12:51:46.114 ca4 Delete type=0 #550
-2025/03/17-12:51:46.114 ca4 Delete type=3 #548
-2025/03/17-12:58:44.420 4dac Level-0 table #555: started
-2025/03/17-12:58:44.430 4dac Level-0 table #555: 2640 bytes OK
-2025/03/17-12:58:44.432 4dac Delete type=0 #553
-2025/03/17-12:58:44.438 4dac Manual compaction at level-0 from '!folders!4rbwGmTLjBzDjMLM' @ 72057594037927935 : 1 .. '!items.effects!yCvbVbpA3tsqhm4I.50PsjOsQr55a7eNt' @ 0 : 0; will stop at '!items!zXr9KhuWSocLjBSJ' @ 1381 : 1
-2025/03/17-12:58:44.439 4dac Compacting 1@0 + 1@1 files
-2025/03/17-12:58:44.444 4dac Generated table #556@0: 59 keys, 83519 bytes
-2025/03/17-12:58:44.444 4dac Compacted 1@0 + 1@1 files => 83519 bytes
-2025/03/17-12:58:44.448 4dac compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/03/17-12:58:44.448 4dac Delete type=2 #445
-2025/03/17-12:58:44.448 4dac Delete type=2 #555
-2025/03/17-12:58:44.448 4dac Manual compaction at level-0 from '!items!zXr9KhuWSocLjBSJ' @ 1381 : 1 .. '!items.effects!yCvbVbpA3tsqhm4I.50PsjOsQr55a7eNt' @ 0 : 0; will stop at (end)
+2025/03/18-18:24:14.133 3b5c Recovering log #559
+2025/03/18-18:24:14.156 3b5c Delete type=0 #559
+2025/03/18-18:24:14.156 3b5c Delete type=3 #557
+2025/03/18-18:24:34.485 3fa8 Level-0 table #565: started
+2025/03/18-18:24:34.485 3fa8 Level-0 table #565: 0 bytes OK
+2025/03/18-18:24:34.493 3fa8 Delete type=0 #563
+2025/03/18-18:24:34.498 3fa8 Manual compaction at level-0 from '!folders!4rbwGmTLjBzDjMLM' @ 72057594037927935 : 1 .. '!items.effects!yCvbVbpA3tsqhm4I.50PsjOsQr55a7eNt' @ 0 : 0; will stop at (end)
