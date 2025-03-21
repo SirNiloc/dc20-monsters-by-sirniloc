@@ -1,6 +1,4 @@
-2025/03/18-18:17:42.790 298c Delete type=3 #602
-2025/03/18-18:23:47.924 3fa8 Level-0 table #610: started
-2025/03/18-18:23:47.925 3fa8 Level-0 table #610: 0 bytes OK
-2025/03/18-18:23:47.930 3fa8 Delete type=0 #608
-2025/03/18-18:23:47.931 3fa8 Manual compaction at level-0 from '!actors!04FxRmCBKqU6ojOd' @ 72057594037927935 : 1 .. '!folders!xOjHFNHFrzwt853H' @ 0 : 0; will stop at (end)
-2025/03/18-18:23:47.931 3fa8 Manual compaction at level-1 from '!actors!04FxRmCBKqU6ojOd' @ 72057594037927935 : 1 .. '!folders!xOjHFNHFrzwt853H' @ 0 : 0; will stop at (end)
+2025/03/21-01:24:46.397 3aa8 Recovering log #613
+2025/03/21-01:24:46.411 3aa8 Delete type=0 #608
+2025/03/21-01:24:46.411 3aa8 Delete type=0 #613
+2025/03/21-01:24:46.411 3aa8 Delete type=3 #611

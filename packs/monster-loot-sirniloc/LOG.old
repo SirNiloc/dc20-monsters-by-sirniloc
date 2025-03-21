@@ -1,5 +1,4 @@
-2025/03/18-18:17:43.028 33a4 Delete type=3 #250
-2025/03/18-18:23:47.855 3fa8 Level-0 table #257: started
-2025/03/18-18:23:47.856 3fa8 Level-0 table #257: 0 bytes OK
-2025/03/18-18:23:47.863 3fa8 Delete type=0 #255
-2025/03/18-18:23:47.899 3fa8 Manual compaction at level-0 from 'undefined' @ 72057594037927935 : 1 .. 'undefined' @ 0 : 0; will stop at (end)
+2025/03/21-01:24:46.641 4a88 Recovering log #260
+2025/03/21-01:24:46.650 4a88 Delete type=0 #255
+2025/03/21-01:24:46.650 4a88 Delete type=0 #260
+2025/03/21-01:24:46.650 4a88 Delete type=3 #258
