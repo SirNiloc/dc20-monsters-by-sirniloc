@@ -18,3 +18,23 @@
 2025/03/21-10:46:38.421 3f24 Delete type=2 #415
 2025/03/21-10:46:38.422 3f24 Delete type=2 #606
 2025/03/21-10:46:38.423 3f24 Delete type=2 #618
+2025/03/21-11:32:35.620 3f24 Level-0 table #626: started
+2025/03/21-11:32:35.636 3f24 Level-0 table #626: 287392 bytes OK
+2025/03/21-11:32:35.638 3f24 Delete type=0 #619
+2025/03/21-11:32:35.642 3f24 Manual compaction at level-0 from '!actors!04FxRmCBKqU6ojOd' @ 72057594037927935 : 1 .. '!folders!xOjHFNHFrzwt853H' @ 0 : 0; will stop at (end)
+2025/03/21-11:32:35.649 3f24 Manual compaction at level-1 from '!actors!04FxRmCBKqU6ojOd' @ 72057594037927935 : 1 .. '!folders!xOjHFNHFrzwt853H' @ 0 : 0; will stop at '!actors.items.effects!uu3yUn7eBikcHxIe.l5DKDHRwpHS0gBtg.ikVeaebEUee9EZmU' @ 17863 : 1
+2025/03/21-11:32:35.649 3f24 Compacting 1@1 + 5@2 files
+2025/03/21-11:32:35.708 3f24 Generated table #627@1: 666 keys, 2122319 bytes
+2025/03/21-11:32:35.795 3f24 Generated table #628@1: 749 keys, 2121986 bytes
+2025/03/21-11:32:35.843 3f24 Generated table #629@1: 747 keys, 2122990 bytes
+2025/03/21-11:32:35.897 3f24 Generated table #630@1: 826 keys, 2123098 bytes
+2025/03/21-11:32:35.925 3f24 Generated table #631@1: 1015 keys, 701750 bytes
+2025/03/21-11:32:35.925 3f24 Compacted 1@1 + 5@2 files => 9192143 bytes
+2025/03/21-11:32:35.926 3f24 compacted to: files[ 0 0 5 0 0 0 0 ]
+2025/03/21-11:32:35.926 3f24 Delete type=2 #620
+2025/03/21-11:32:35.926 3f24 Delete type=2 #621
+2025/03/21-11:32:35.927 3f24 Delete type=2 #622
+2025/03/21-11:32:35.927 3f24 Delete type=2 #623
+2025/03/21-11:32:35.928 3f24 Delete type=2 #624
+2025/03/21-11:32:35.928 3f24 Delete type=2 #626
+2025/03/21-11:32:35.935 3f24 Manual compaction at level-1 from '!actors.items.effects!uu3yUn7eBikcHxIe.l5DKDHRwpHS0gBtg.ikVeaebEUee9EZmU' @ 17863 : 1 .. '!folders!xOjHFNHFrzwt853H' @ 0 : 0; will stop at (end)
