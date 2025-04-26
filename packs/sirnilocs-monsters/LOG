@@ -1,3 +1,27 @@
-2025/03/21-11:38:21.753 3154 Recovering log #625
-2025/03/21-11:38:22.037 3154 Delete type=0 #625
-2025/03/21-11:38:22.038 3154 Delete type=3 #617
+2025/04/26-17:12:57.075 3950 Recovering log #670
+2025/04/26-17:12:57.077 3950 Delete type=0 #670
+2025/04/26-17:12:57.078 3950 Delete type=3 #658
+2025/04/26-17:16:16.936 535c Level-0 table #691: started
+2025/04/26-17:16:16.940 535c Level-0 table #691: 98486 bytes OK
+2025/04/26-17:16:16.941 535c Delete type=0 #689
+2025/04/26-17:16:16.941 535c Manual compaction at level-0 from '!actors!0VFghnXMC0qhlstA' @ 72057594037927935 : 1 .. '!folders!xOjHFNHFrzwt853H' @ 0 : 0; will stop at (end)
+2025/04/26-17:16:16.941 535c Manual compaction at level-1 from '!actors!0VFghnXMC0qhlstA' @ 72057594037927935 : 1 .. '!folders!xOjHFNHFrzwt853H' @ 0 : 0; will stop at '!actors.items.effects!zTPhWg4C9UDup6eX.yJlW0RnT8wX0Prhu.q11dyOEQpnZF878I' @ 26080 : 0
+2025/04/26-17:16:16.941 535c Compacting 1@1 + 9@2 files
+2025/04/26-17:16:16.967 535c Generated table #692@1: 590 keys, 2122725 bytes
+2025/04/26-17:16:17.018 535c Generated table #693@1: 655 keys, 2123062 bytes
+2025/04/26-17:16:17.042 535c Generated table #694@1: 665 keys, 2122446 bytes
+2025/04/26-17:16:17.066 535c Generated table #695@1: 662 keys, 2122112 bytes
+2025/04/26-17:16:17.085 535c Generated table #696@1: 1526 keys, 1847127 bytes
+2025/04/26-17:16:17.085 535c Compacted 1@1 + 9@2 files => 10337472 bytes
+2025/04/26-17:16:17.085 535c compacted to: files[ 0 0 5 0 0 0 0 ]
+2025/04/26-17:16:17.086 535c Delete type=2 #676
+2025/04/26-17:16:17.086 535c Delete type=2 #677
+2025/04/26-17:16:17.086 535c Delete type=2 #679
+2025/04/26-17:16:17.086 535c Delete type=2 #680
+2025/04/26-17:16:17.086 535c Delete type=2 #682
+2025/04/26-17:16:17.088 535c Delete type=2 #683
+2025/04/26-17:16:17.088 535c Delete type=2 #684
+2025/04/26-17:16:17.088 535c Delete type=2 #686
+2025/04/26-17:16:17.089 535c Delete type=2 #687
+2025/04/26-17:16:17.089 535c Delete type=2 #691
+2025/04/26-17:16:17.089 535c Manual compaction at level-1 from '!actors.items.effects!zTPhWg4C9UDup6eX.yJlW0RnT8wX0Prhu.q11dyOEQpnZF878I' @ 26080 : 0 .. '!folders!xOjHFNHFrzwt853H' @ 0 : 0; will stop at (end)

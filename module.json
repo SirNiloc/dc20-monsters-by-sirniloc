@@ -1,7 +1,7 @@
 {
   "id": "dc20-monsters-by-sirniloc",
   "title": "RAVN Quest: Monsters",
-  "version": "0.2.2",
+  "version": "0.3.0",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
@@ -55,17 +55,6 @@
       "label": "RAVN Quest: Monsters",
       "path": "packs/sirnilocs-monsters",
       "type": "Actor",
-      "system": "dc20rpg",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
-      "name": "monster-loot-sirniloc",
-      "label": "RAVN Quest: Monsters (Loot)",
-      "path": "packs/monster-loot-sirniloc",
-      "type": "Item",
       "system": "dc20rpg",
       "ownership": {
         "PLAYER": "OBSERVER",
