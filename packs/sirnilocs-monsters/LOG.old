@@ -1,23 +1,5 @@
-2025/05/07-01:09:52.980 27e8 Recovering log #753
-2025/05/07-01:09:52.982 27e8 Delete type=0 #753
-2025/05/07-01:09:52.982 27e8 Delete type=3 #744
-2025/05/07-01:21:41.003 d00 Level-0 table #763: started
-2025/05/07-01:21:41.010 d00 Level-0 table #763: 579774 bytes OK
-2025/05/07-01:21:41.010 d00 Delete type=0 #761
-2025/05/07-01:21:41.014 d00 Manual compaction at level-0 from '!actors!0VFghnXMC0qhlstA' @ 72057594037927935 : 1 .. '!folders!xOjHFNHFrzwt853H' @ 0 : 0; will stop at (end)
-2025/05/07-01:21:41.014 d00 Manual compaction at level-1 from '!actors!0VFghnXMC0qhlstA' @ 72057594037927935 : 1 .. '!folders!xOjHFNHFrzwt853H' @ 0 : 0; will stop at '!actors.items.effects!RTzw0NAbstx3GE3o.QHtaIDg5OMj08D2Y.kYpkrcd2njSFqd7p' @ 27128 : 1
-2025/05/07-01:21:41.014 d00 Compacting 1@1 + 5@2 files
-2025/05/07-01:21:41.037 d00 Generated table #764@1: 590 keys, 2119658 bytes
-2025/05/07-01:21:41.083 d00 Generated table #765@1: 668 keys, 2122573 bytes
-2025/05/07-01:21:41.106 d00 Generated table #766@1: 674 keys, 2123262 bytes
-2025/05/07-01:21:41.126 d00 Generated table #767@1: 675 keys, 2121201 bytes
-2025/05/07-01:21:41.175 d00 Generated table #768@1: 1681 keys, 2127499 bytes
-2025/05/07-01:21:41.175 d00 Compacted 1@1 + 5@2 files => 10614193 bytes
-2025/05/07-01:21:41.175 d00 compacted to: files[ 0 0 5 0 0 0 0 ]
-2025/05/07-01:21:41.176 d00 Delete type=2 #755
-2025/05/07-01:21:41.176 d00 Delete type=2 #756
-2025/05/07-01:21:41.176 d00 Delete type=2 #757
-2025/05/07-01:21:41.176 d00 Delete type=2 #758
-2025/05/07-01:21:41.177 d00 Delete type=2 #759
-2025/05/07-01:21:41.177 d00 Delete type=2 #763
-2025/05/07-01:21:41.179 d00 Manual compaction at level-1 from '!actors.items.effects!RTzw0NAbstx3GE3o.QHtaIDg5OMj08D2Y.kYpkrcd2njSFqd7p' @ 27128 : 1 .. '!folders!xOjHFNHFrzwt853H' @ 0 : 0; will stop at (end)
+2025/05/13-19:14:44.781 5390 Recovering log #762
+2025/05/13-19:14:44.782 5390 Recovering log #770
+2025/05/13-19:14:44.784 5390 Delete type=0 #762
+2025/05/13-19:14:44.784 5390 Delete type=0 #770
+2025/05/13-19:14:44.784 5390 Delete type=3 #760
