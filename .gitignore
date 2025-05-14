@@ -3,6 +3,6 @@ publish.js
 run_publish.bat
 publishFoundryModule.js
 *.log
-LOCK
-LOG
 *.old
+**/LOCK
+**/LOG
