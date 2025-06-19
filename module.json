@@ -1,10 +1,10 @@
 {
   "id": "dc20-monsters-by-sirniloc",
   "title": "RAVN Quest: Monsters",
-  "version": "0.3.3",
+  "version": "1.0.1",
   "compatibility": {
     "minimum": "12",
-    "verified": "12"
+    "verified": "13"
   },
   "relationships": {
     "requires": [
@@ -18,13 +18,6 @@
       {
         "id": "dc20rpg",
         "type": "system",
-        "compatibility": {}
-      }
-    ],
-    "recommends": [
-      {
-        "id": "about-face",
-        "type": "module",
         "compatibility": {}
       }
     ]
@@ -63,7 +56,7 @@
     }
   ],
   "url": "https://github.com/SirNiloc/dc20-monsters-by-sirniloc",
-  "manifest": "https://github.com/SirNiloc/dc20-monsters-by-sirniloc/releases/download/0.3.3/module.json",
-  "download": "https://github.com/SirNiloc/dc20-monsters-by-sirniloc/releases/download/0.3.3/module.zip",
-  "description": "Adds more monsters, actions, and features for DC20."
+  "manifest": "https://github.com/SirNiloc/dc20-monsters-by-sirniloc/releases/latest/download/module.json",
+  "download": "https://github.com/SirNiloc/dc20-monsters-by-sirniloc/releases/latest/download/module.zip",
+  "description": "<p>Adds more monsters, actions, and features for DC20.</p>"
 }
