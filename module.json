@@ -1,7 +1,7 @@
 {
   "id": "dc20-monsters-by-sirniloc",
   "title": "RAVN Quest: Monsters",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "compatibility": {
     "minimum": "12",
     "verified": "13"
@@ -51,9 +51,119 @@
       }
     },
     {
-      "name": "sirnilocs-monsters",
-      "label": "RAVN Quest: Monsters",
-      "path": "packs/sirnilocs-monsters",
+      "name": "ravn-quest-beasts",
+      "label": "Beasts",
+      "path": "packs/ravn-quest-beasts",
+      "type": "Actor",
+      "system": "dc20rpg",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "ravn-quest-dragonkin",
+      "label": "Dragonkin",
+      "path": "packs/ravn-quest-dragonkin",
+      "type": "Actor",
+      "system": "dc20rpg",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "ravn-quest-giants",
+      "label": "Giants",
+      "path": "packs/ravn-quest-giants",
+      "type": "Actor",
+      "system": "dc20rpg",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "ravn-quest-townsfolk",
+      "label": "Townsfolk",
+      "path": "packs/ravn-quest-townsfolk",
+      "type": "Actor",
+      "system": "dc20rpg",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "ravn-quest-underfolk",
+      "label": "Underfolk",
+      "path": "packs/ravn-quest-underfolk",
+      "type": "Actor",
+      "system": "dc20rpg",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "ravn-quest-waterfolk",
+      "label": "Waterfolk",
+      "path": "packs/ravn-quest-waterfolk",
+      "type": "Actor",
+      "system": "dc20rpg",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "ravn-quest-arcanforged",
+      "label": "Arcanforged (WIP)",
+      "path": "packs/ravn-quest-arcanforged",
+      "type": "Actor",
+      "system": "dc20rpg",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "ravn-quest-demon",
+      "label": "Demon (WIP)",
+      "path": "packs/ravn-quest-demon",
+      "type": "Actor",
+      "system": "dc20rpg",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "ravn-quest-porcs",
+      "label": "Porcs (WIP)",
+      "path": "packs/ravn-quest-porcs",
+      "type": "Actor",
+      "system": "dc20rpg",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "ravn-quest-undead",
+      "label": "Undead (WIP)",
+      "path": "packs/ravn-quest-undead",
+      "type": "Actor",
+      "system": "dc20rpg",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "ravn-quest-boss",
+      "label": "Boss Monsters",
+      "path": "packs/ravn-quest-boss",
       "type": "Actor",
       "system": "dc20rpg",
       "ownership": {
