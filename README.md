@@ -1,3 +1,5 @@
+![GitHub all releases](https://img.shields.io/github/downloads/SirNiloc/dc20-monsters-by-sirniloc/total.svg)
+
 The EA version of DC20 has few monsters right now so I added more.
 
 This product is based on the following Licensed Material:
