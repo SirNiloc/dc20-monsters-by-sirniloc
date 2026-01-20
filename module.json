@@ -173,8 +173,8 @@
     }
   ],
   "url": "https://github.com/SirNiloc/dc20-monsters-by-sirniloc",
-  "manifest": "https://github.com/SirNiloc/dc20-monsters-by-sirniloc/releases/latest/download/module.json",
-  "download": "https://github.com/SirNiloc/dc20-monsters-by-sirniloc/releases/latest/download/module.zip",
+  "manifest": "https://github.com/SirNiloc/dc20-monsters-by-sirniloc/releases/download/1.2.10/module.json",
+  "download": "https://github.com/SirNiloc/dc20-monsters-by-sirniloc/releases/download/1.2.10/module.zip",
   "description": "<p>Adds more monsters, actions, and features for DC20.</p>",
   "flags": {}
 }
